@@ -23,7 +23,7 @@
 
 - ⚡ Fun fact **Friends call me tech guy 🧑‍💻**
 
-<img align="right" alt="coding" width="40" src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/programmer-like-8928575-7322313.mp4"/>
+<img align="right" alt="coding" width="40" src="https://i.ibb.co/KhHH44h/SCR-20240609-lznx.png"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
