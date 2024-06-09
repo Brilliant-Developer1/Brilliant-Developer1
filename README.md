@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://github.com/Brilliant-Developer1/Brilliant-Developer1/blob/main/Untitled%20design.png" alt="logo" />
+</div>
 <h1 align="center">Hi 👋, I'm MD OBAIDULLAH</h1>
 <h3 align="center">Junior web developer specialized in Front-End from Bangladesh</h3>
 
