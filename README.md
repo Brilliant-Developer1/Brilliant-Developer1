@@ -13,13 +13,13 @@
 
 - 👯 I’m looking to collaborate on **Open-Source projects**
 
-- 👨‍💻 All of my projects are available at [https://obaidullah-portfolio.vercel.app/](https://obaidullah-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio Website](https://obaidullah-portfolio.vercel.app/)
 
 - 💬 Ask me about **JavaScript, react, Next.js, Tailwind CSS, Node JS, MongoDB, Firebase**
 
 - 📫 How to reach me **email2obaidul@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1rJvhqtdq0iBdYjYeAvUF0PxrW9gLjNmi/view](https://drive.google.com/file/d/1rJvhqtdq0iBdYjYeAvUF0PxrW9gLjNmi/view)
+- 📄 Know about my experiences, here is my [Resume](https://drive.google.com/file/d/1rJvhqtdq0iBdYjYeAvUF0PxrW9gLjNmi/view)
 
 - ⚡ Fun fact **Friends call me tech guy 🧑‍💻**
 
