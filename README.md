@@ -23,7 +23,6 @@
 
 - ⚡ Fun fact **Friends call me tech guy 🧑‍💻**
 
-<img align="right" alt="coding" width="400" src=""/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
